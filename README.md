@@ -3,7 +3,7 @@
 ####  Techs
 ```
 Stacks 🛠 
-  - Frontend Stack : JavaScript / TypeScript / React / Zustand / ~~~Next.js~~~~
+  - Frontend Stack : JavaScript / TypeScript / React / Zustand / ~~Next.js~~
   - Styling : Styled-Components,Emotion
 
 Experienced & Learning 📖 
