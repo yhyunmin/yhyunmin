@@ -4,7 +4,7 @@
 ```
 Stacks 🛠 
   - Frontend Stack : JavaScript / TypeScript / React / Zustand / ~~Next.js~~
-  - Styling : Styled-Components,Emotion
+  - Styling : Styled-Components,Emotion,Tailwind
 
 Experienced & Learning 📖 
   - NodeJS / Express / 
@@ -32,3 +32,9 @@ Here are some ideas to get you started:
   width="600"
   height="300"
 />
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,styledcomponents,tailwind,storybook,js,ts,reactquery,react,redux,zustand,nextjs,idea,vscode,webstorm,figma,pnpm,&theme=dark&perline=7" />
+  </a>
+</p>
